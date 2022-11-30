@@ -1,4 +1,5 @@
 {
+	"homepage": "https://developerharshit.github.io/spare-parts-mgmt/",
 	"name": "spare-parts-mgmt",
 	"version": "0.1.0",
 	"private": true,
@@ -15,7 +16,6 @@
 		"semantic-ui-react": "^2.1.4",
 		"web-vitals": "^2.1.4"
 	},
-	"homepage": "https://developerharshit.github.io/spare-parts-mgmt",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
